@@ -1,0 +1,21 @@
+# Nether Portal Range Controller (NPRC) Configuration
+
+worlds:
+  world_nether:
+    # Judgment shape: "circle" or "square"
+    shape: "circle"
+    # Center coordinates
+    center_x: 0
+    center_z: 0
+    # Allowed radius (or half-length of a side)
+    allowed_radius: 250
+    # Warning message when blocked outside the area
+    # Available placeholders: <msg_allowed_radius>, <msg_shape>
+    message: "§e形<msg_shape> 半径<msg_allowed_radius> §c以外のエリアで外側にネザーゲートを作成使用することはできません！"
+
+#  world_nether2: # Supports Multiverse plugin environments
+#    shape: "circle"
+#    center_x: 0
+#    center_z: 0
+#    allowed_radius: 375
+#    message: "§gworld_nether2 §e形<msg_shape> 半径<msg_allowed_radius> §c以外のエリアで外側にネザーゲートを作成することはできません！"

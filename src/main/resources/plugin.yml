@@ -1,0 +1,18 @@
+name: NetherPortalRangeController
+version: 2.0
+main: com.redcat.nprc.NetherPortalRangeController
+api-version: 1.20
+authors: [Red Cat]
+description: Controls and restricts nether portal creation based on custom radius and shape configurations.
+
+commands:
+  nprc:
+    description: Nether Portal Range Controller main command
+    permission: nprc.admin
+    permission-message: §cYou do not have permission to use this command.
+    usage: /nprc reload
+
+permissions:
+  nprc.admin:
+    description: Allows reloading the NPRC configuration
+    default: op
