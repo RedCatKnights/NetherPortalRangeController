@@ -79,4 +79,4 @@ NetherPortalRangeController (NPRC) は、Paperサーバー（Minecraft 1.20以�
 
 ### 権限
 * `nprc.admin` - 管理コマンドを使用する権限を付与します（デフォルト: OP）
-* 
+  
