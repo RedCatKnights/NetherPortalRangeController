@@ -16,7 +16,7 @@ Furthermore, as a special effect of this plugin, once you leave its range, you w
 - I have some basic programming knowledge, but I cannot create policies myself, so I am grateful to Gemini.
 
 - Please note that this code has not been tested in any environment other than my own.
-- 
+
 ---
 
 ## Key Features
