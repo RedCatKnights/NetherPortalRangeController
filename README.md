@@ -4,7 +4,19 @@
 NetherPortalRangeController (NPRC) is a lightweight and efficient Minecraft plugin designed for Paper servers (targeting Minecraft 1.20~latest). It allows server administrators to restrict and control the creation and usage of Nether portals based on configurable geographic boundaries (circles or squares) within specific worlds.
 
 The reason I created this plugin is that I generated the Nether world using the Chunky Circle shape, but the range was too small, and I wanted to expand it. However, I couldn't find a plugin that was compatible with the Chunky Circle shape while limiting the portal range, so I created this plugin.
+
 Furthermore, as a special effect of this plugin, once you leave its range, you won't be able to return from the Nether unless you enter the area where you can create a portal again. (^^♪
+
+---
+
+## ! ! Important Notes ! !
+
+- Please understand that this code was created with the help of the AI ​​Gemini in terms of policy development.
+
+- I have some basic programming knowledge, but I cannot create policies myself, so I am grateful to Gemini.
+
+- Please note that this code has not been tested in any environment other than my own.
+- 
 ---
 
 ## Key Features
