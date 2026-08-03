@@ -10,7 +10,6 @@ Furthermore, as a special effect of this plugin, once you leave its range, you w
 ---
 
 ## ! ! Important Notes ! !
-
 - Please understand that this code was created with the help of the AI ​​Gemini in terms of policy development.
 
 - I have some basic programming knowledge, but I cannot create policies myself, so I am grateful to Gemini.
